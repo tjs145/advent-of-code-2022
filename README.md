@@ -8,3 +8,4 @@
 6. Ruby
 7. Erlang
 8. Julia
+9. Nim
