@@ -9,3 +9,4 @@
 7. Erlang
 8. Julia
 9. Nim
+10. VB
