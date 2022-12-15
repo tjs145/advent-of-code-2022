@@ -10,3 +10,4 @@
 8. Julia
 9. Nim
 10. VB
+12. Swift
