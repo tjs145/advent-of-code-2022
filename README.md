@@ -13,3 +13,4 @@
 12. Swift
 13. PHP
 14. F#
+17. Scala
